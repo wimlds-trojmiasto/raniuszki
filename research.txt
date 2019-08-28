@@ -1,0 +1,33 @@
+External Websites with bird sounds:
+
+  http://machine-listening.eecs.qmul.ac.uk/bird-audio-detection-challenge/ 
+    Data set labeled, ready to download, global challange, 
+    results and used models: http://c4dm.eecs.qmul.ac.uk/events/badchallenge_results/
+
+  https://www.xeno-canto.org/collection/area/europe
+    Data set labeled, ready to download
+
+Scientific publications:
+
+  https://arxiv.org/ftp/arxiv/papers/1810/1810.09078.pdf
+     OUR PRACTICE OF USING	MACHINE	LEARNING TO RECOGNIZE SPECIES BY VOICE
+
+  http://c4dm.eecs.qmul.ac.uk/papers/2017/OSA_article_HPamula_etal_04082017.pdf - used winner method from Bird challenge
+      ADAPTATION OF DEEP LEARNING METHODS TO NOCTURNAL BIRD AUDIO MONITORING
+       / ZASTOSOWANIE METOD UCZENIA GŁĘBOKIEGO DO AKUSTYCZNEGO MONITORINGU PTAKÓW MIGRUJĄCYCH NOCĄ
+
+  http://machine-listening.eecs.qmul.ac.uk/bird-audio-detection-challenge/ 
+    Data set labeled, ready to download, global challange, 
+    results and used models: http://c4dm.eecs.qmul.ac.uk/events/badchallenge_results/
+
+  https://peerj.com/articles/488/
+    Automatic large-scale classification of bird sounds is strongly improved by unsupervised feature learning
+
+  https://www.researchgate.net/publication/227394527_Acoustic_classification_of_multiple_simultaneous_bird_species_A_multi-instance_multi-label_approach
+    Acoustic classification of multiple simultaneous bird species: A multi-instance multi-label approach
+
+  https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/18483/Stowell%20On-bird%20Sound%20Recordings%202016%20Accepted.pdf.pdf?sequence=3&isAllowed=y
+    On-bird Sound Recordings: Automatic Acoustic Recognition of Activities and Contexts
+
+  https://royalsocietypublishing.org/doi/10.1098/rsif.2016.0296
+    Detailed temporal structure of communication networks in groups of songbirds
