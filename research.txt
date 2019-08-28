@@ -10,7 +10,7 @@ External Websites with bird sounds:
 Scientific publications:
 
   https://arxiv.org/ftp/arxiv/papers/1810/1810.09078.pdf
-     OUR PRACTICE OF USING	MACHINE	LEARNING TO RECOGNIZE SPECIES BY VOICE
+     OUR PRACTICE OF USING MACHINE LEARNING TO RECOGNIZE SPECIES BY VOICE
 
   http://c4dm.eecs.qmul.ac.uk/papers/2017/OSA_article_HPamula_etal_04082017.pdf - used winner method from Bird challenge
       ADAPTATION OF DEEP LEARNING METHODS TO NOCTURNAL BIRD AUDIO MONITORING
